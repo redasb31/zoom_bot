@@ -16,7 +16,7 @@ In order to run this project, you will need:
 2. Install Selenium library for Python using pip:
 `pip install selenium`
 
-3. Download the ChromeDriver executable from the [official website](https://sites.google.com/a/chromium.org/chromedriver/downloads). Make sure to download the version that matches your installed version of Google Chrome.
+3. Download the ChromeDriver executable from the [official website](https://sites.google.com/chromium.org/driver/?pli=1). Make sure to download the version that matches your installed version of Google Chrome.
 4. Extract the ChromeDriver executable to a location on your computer and add the location to your system's PATH environment variable.
 
 ## Usage
